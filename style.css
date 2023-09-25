@@ -1,0 +1,100 @@
+.division1{
+background-color: rgb(0, 0, 0);
+color: white
+}
+.div2{
+    position: relative;
+}
+.div2 img:first-child{
+    position: absolute;
+    z-index: 0;
+    
+}
+.div2 img:last-child{
+    position: absolute;
+    z-index: 1;
+    max-width: 150%;
+    max-height: 150%;
+    padding: 30px;
+}
+.div3{
+    position: relative;
+}
+.div3 img:first-child{
+    position: absolute;
+    z-index: 0;
+    
+}
+.div3 img:last-child{
+    position: absolute;
+    z-index: 1;
+    max-width: 150%;
+    max-height: 150%;
+    padding: 30px;
+}
+.div10{
+    position: relative;
+}
+.div10 img:first-child{
+    position: absolute;
+    z-index: 0;
+    
+}
+.div10 img:last-child{
+    position: absolute;
+    z-index: 1;
+    max-width: 150%;
+    max-height: 150%;
+    padding: 30px;
+}
+#Episodes{
+    padding-left: 90px;
+    
+}
+.div6{
+    display: flex;
+    flex-direction: row;
+    
+}
+table{
+    margin-right: 10%;
+}
+.content td{
+    padding: 15px;
+    text-align: center;
+    
+}
+.div7{
+    padding-left: 85%;
+}
+#img1{
+    margin: 25px;
+    width: 150px;
+    height: auto;
+}
+#img2{
+    margin-left: 60px;
+    width: 30px;
+    height: auto;
+}
+#img3{
+    margin-left: 60px;
+    width: 30px;
+    height: auto;
+}
+#img4{
+    margin-left: 60px;
+    width: 30px;
+    height: auto;
+}
+.div4,.div2, .div3, .div10, .div5{
+    margin-left: 60px;
+}
+#img5{
+    width: 60px;
+    height: auto;
+}
+#arrow{
+    width: 120px;
+    height: auto;
+}
