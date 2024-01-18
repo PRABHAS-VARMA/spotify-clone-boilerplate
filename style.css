@@ -273,13 +273,13 @@ h2{
 
 @media screen and (max-width: 768px) {
     body {
-        overflow-x: auto; /* Enable horizontal scrolling on small screens */
+        overflow-x: auto;
     }
 
     nav {
-        width: 100%; /* Make the navigation bar full width */
-        padding: 10px; /* Add some padding for better readability */
-        text-align: center; /* Center align the links */
+        width: 100%; 
+        padding: 10px; 
+        text-align: center; 
     }
 
     #nav {
@@ -312,7 +312,6 @@ h2{
         top: 10px;
     }
 
-    /* Adjust other styles for small screens */
     #top1, #top2, #top3, #top4, #top5 {
         left: 10px;
         width: calc(100% - 20px); 
